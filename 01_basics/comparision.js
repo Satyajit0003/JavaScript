@@ -28,3 +28,4 @@ That's why (1)null>=0 is true and (2)null<0 and (3)null>0 is false
 
 //===
 console.log("1"===1);
+//it compare the data types so "1"->string and 1 is number so it give false
